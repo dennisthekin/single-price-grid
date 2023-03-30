@@ -134,5 +134,9 @@ body {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+    
+    .btn:hover {
+        background-color: hsl(71, 73%, 45%);
+    }
 
 }
